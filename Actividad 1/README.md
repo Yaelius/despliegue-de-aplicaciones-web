@@ -1,5 +1,5 @@
 # despliegue-de-aplicaciones-web
-https://github.com/Yaelius/despliegue-de-aplicaciones-web
+
 
 2.
 ![ejercicio2](https://github.com/Yaelius/despliegue-de-aplicaciones-web/assets/144776297/ed0a3cd0-7de6-4a2b-923b-e3b5b2393dba)
